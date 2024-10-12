@@ -1,0 +1,22 @@
+| Product Specification | Value |
+| ----------------- | ---------------- |
+| **Rated Voltage** | 220V-240V / 120V |
+| **Rated Power** | 330W / 300W |
+| **Rated Frequency** | 50Hz-60Hz |
+| **Temperature Range** | 75℃-85℃ |
+| **Heating Speed** | 35 minutes |
+| **Control** | button |
+| **Plate Capacity** | null (no plate) |
+| **Product Size** | 670×400×25 |
+| **Plate Cover Material** | null (no plate cover) |
+| **Plate Material** | null (no plate) |
+| **Surface Material** | Tempered Glass |
+| **Bracket Material** | Zinc Coated Steel |
+| **Handle Material** | PP (Polypropylene) |
+| **Junction Box Material** | PP (Polypropylene) |
+| **Mica Heating Element** | 220V/110W 191Ω/m |
+| **Thermostat** | null (no thermostat) |
+| **Indicator Light Material** | PC (Polycarbonate) |
+| **Knob Material** | null (no knob) |
+| **Anti-slip Mat Material** | Silicone |
+| **Power Cord** | 250V/6A 52(RVV) 2G×0.5mm² |

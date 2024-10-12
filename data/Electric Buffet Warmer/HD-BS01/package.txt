@@ -1,0 +1,9 @@
+| Package Type | Value |
+| ------------ | ----- |
+| **Gift Box - Foam** | null |
+| **Gift Box - None Foam** | EPE Foam<br>445×130×300 (3 layers)<br>450×135×305 (5 layers) |
+| **Mail Box - Form** | null |
+| **Mail Box - Honeycomb** | 445×130×295 |
+| **Master Carton - Form** | 458×396×312 (3pcs/ctn) |
+| **Master Carton - None Form** | 458×396×312 (3pcs/ctn) |
+| **Container Load Quantity** | 20ft: 1485pcs<br>40ft: 3090pcs<br>40HQ: 3630pcs |
