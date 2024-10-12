@@ -1,0 +1,20 @@
+| Product Specification | Value |
+| ----------------- | ---------------- |
+| **Rated Voltage** | 220V-240V / 120V |
+| **Rated Power** | 2200W / 1200W |
+| **Rated Frequency** | 50Hz-60Hz |
+| **Temperature Range** | 0℃-600℃, average temperature of 400℃ |
+| **Heating Speed** | 15 minutes |
+| **Control** | Knob, touch |
+| **Handle** | No |
+| **Product Size** | 291×74×339 |
+| **Surface Material** | Glass-Ceramic |
+| **Heating Plate** | Silica / Expanded Vermiculite<br>Iron-Chromium-Aluminum Wire |
+| **Frame Material** | PBT (Polybutylene Terephthalate) |
+| **Bottom Material** | pp (Polypropylene) |
+| **Handle Material** | No |
+| **Indicator Light** | No |
+| **Knob Material** | ABS |
+| **Timer** | Yes |
+| **Wiring Box Material** | pp (Polypropylene) |
+| **Power Cord Material** | 250V/10A H05RN-F 3×0.75mm² |
