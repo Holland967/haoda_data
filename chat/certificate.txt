@@ -1,0 +1,7 @@
+| Type | Certification |
+| ---- | ------------- |
+| **General** | CB<br>CE |
+| **Other** | ErP<br>FCC |
+| **Regional** | GS<br>UKCA<br>ETL<br>SAA |
+| **Environmental** | RoHS<br>REACH<br>PAHs<br>POPs<br>PFAS<br>Pro65 |
+| **Food** | LFGB<br>DGCCRF<br>ITALIAN<br>FDA |
