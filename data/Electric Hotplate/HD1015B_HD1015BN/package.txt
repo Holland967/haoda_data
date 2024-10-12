@@ -1,0 +1,9 @@
+| Package Type | Value |
+| ------------ | ----- |
+| **Gift Box - Foam** | 3 layers:<br>245×100×285 (1015B)<br>265×90×290 (1015BN)<br>5 layers:<br>250×105×290 (1015B)<br>270×95×295 (1015BN) |
+| **Gift Box - None Foam** | null |
+| **Mail Box - Form** | 250×105×290 (1015B)<br>270×95×295 (1012BN) |
+| **Mail Box - Honeycomb** | null |
+| **Master Carton - Form** | 315×300×505 (6pcs/ctn, 1015B)<br>555×280×310 (6pcs/ctn, 1015BN) |
+| **Master Carton - None Form** | null |
+| **Container Load Quantity** | 20ft: 3552pcs/3540pcs<br>40ft: 7320pcs/7284pcs<br>40HQ: 8580pcs/8466pcs |
