@@ -1,0 +1,25 @@
+| Product Specification | Value |
+| ----------------- | ---------------- |
+| **Rated Voltage** | 220V-240V / 120V |
+| **Rated Power** | 2000W / 1700W |
+| **Rated Frequency** | 50Hz-60Hz |
+| **Temperature Range** | 150℃-190℃ |
+| **Heating Speed** | 15 minutes |
+| **Control** | Knob |
+| **Cover** | Normal / With window |
+| **Capacity** | 4.5L |
+| **Basket** | 3pc |
+| **Product Size** | 358×358×203 |
+| **Cover Material** | SUS430 Stainless Steel |
+| **Housing Material** | SUS430 Stainless Steel |
+| **Heating Tube** | SUS304 Stainless Steel |
+| **Inner Pot Material** | Stainless Steel / Enamel |
+| **Basket Material** | Iron with chrome plating |
+| **Basket Handle Material** | PP (Polypropylene) |
+| **Control Box Material** | PP (Polypropylene) |
+| **Indicator Light** | PC (Polycarbonate), Red |
+| **Knob Material** | PA (Polyamide) |
+| **Housing Handle Material** | PP (Polypropylene) |
+| **Housing Bottom Material** | PP (Polypropylene) |
+| **Anti-slip Mat Material** | PP (Polypropylene) |
+| **Power Cord** | H05RN-F 3*1.0mm² |
