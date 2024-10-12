@@ -93,7 +93,7 @@ if st.session_state.m_state:
 if chat_item == "Stainless Steel":
     with open("chat/stainless steel.txt", "r", encoding="utf-8") as f:
         stainless_steel: str = f.read()
-    with st.container(height=300, border=True):
+    with st.container(height=350, border=True):
         st.markdown(stainless_steel, unsafe_allow_html=True)
     st.markdown("<font color='red'>不锈钢部分暂未支持AI对话，进行其他操作或查看其他内容时，请先取消选择 Stainless Steel 项目。</font>", unsafe_allow_html=True)
 
