@@ -1,0 +1,20 @@
+| Product Specification | Value |
+| ----------------- | ---------------- |
+| **Rated Voltage** | 220V-240V / 120V |
+| **Rated Power** | 1200W+800W / 1000W+700W |
+| **Rated Frequency** | 50Hz-60Hz |
+| **Temperature Range** | 0℃-600℃, average temperature of 400℃ |
+| **Heating Speed** | 15 minutes |
+| **Control** | Knob |
+| **Handle** | No |
+| **Product Size** | 468×274×71 |
+| **Surface Material** | SUS410 Stainless Steel |
+| **Heating Plate** | Φ165mm 230V/1200W<br>Φ145mm 230V/800W |
+| **Frame Material** | No |
+| **Bottom Material** | SPCC |
+| **Handle Material** | No |
+| **Indicator Light** | PC (Polycarbonate) |
+| **Knob Material** | pp (Polypropylene) |
+| **Timer** | No |
+| **Wiring Box Material** | pp (Polypropylene) |
+| **Power Cord Material** | 250V/16A H05RN-F 3×0.75mm² |
