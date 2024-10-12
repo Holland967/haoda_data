@@ -1,0 +1,22 @@
+| Product Specification | Value |
+| ----------------- | ---------------- |
+| **Rated Voltage** | 220V-240V / 120V |
+| **Rated Power** | 200W / 200W |
+| **Rated Frequency** | 50Hz-60Hz |
+| **Temperature Range** | 75℃-85℃ |
+| **Heating Speed** | 35 minutes |
+| **Control** | Knob |
+| **Plate Capacity** | 2×2.5L |
+| **Product Size** | 475×380×140 |
+| **Plate Cover Material** | AS (Polystyrene) |
+| **Plate Material** | SUS430 Stainless Steel |
+| **Surface Material** | SUS410 Stainless Steel |
+| **Bracket Material** | Zinc Coated Steel |
+| **Handle Material** | PP (Polypropylene) |
+| **Junction Box Material** | PP (Polypropylene) |
+| **Mica Heating Element** | 230V/300W 305×265 100.6Ω/m |
+| **Thermostat** | KST820-1964 230V/300W |
+| **Indicator Light Material** | PC (Polycarbonate) |
+| **Knob Material** | PP (Polypropylene) |
+| **Anti-slip Mat Material** | Silicone |
+| **Power Cord** | 250V/16A H05VV-F 3×0.75mm² |
