@@ -23,6 +23,8 @@ with st.sidebar:
         "Stainless Steel"]
     chat_item: str = st.selectbox("Choose a chatbot", chat_list, None, key="chat_item", help="选择一个项目后可以和AI对话，话题基本仅限所选的项目。")
 
+    clear_btn: bool = st.button("Clear", "clear", type="primary")
+
     if chat_item == "Certification":
         with open("chat/certificate.txt", "r", encoding="utf-8") as f:
             certificate: str = f.read()
@@ -162,3 +164,7 @@ if not st.session_state.p_state:
         
         st.session_state.msg.append({"role": "assistant", "content": result})
         st.rerun()
+
+if clear_btn:
+    st.session_state.msg = []
+    st.rerun()
