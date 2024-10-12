@@ -1,0 +1,19 @@
+| Product Specification | Value |
+| ----------------- | ---------------- |
+| **Rated Voltage** | 220V-240V / 120V |
+| **Rated Power** | 200W |
+| **Rated Frequency** | 50Hz-60Hz |
+| **Capacity** | 1.2L |
+| **Blade** | 2-blade |
+| **Bowl Material** | Glass |
+| **Control** | Press-to-use |
+| **Product Size** | 193×160×215 |
+| **Button Material** | ABS |
+| **Top Cover Material** | ABS |
+| **Bowl Cover Material** | ABS |
+| **Bowl Material** | High borosilicate glass |
+| **Blade Shaft Material** | POM (polyformaldehyde) |
+| **Blade Material** | Stainless Steel (1mm) |
+| **Glass Bowl Shaft Connector** | Stainless Steel |
+| **Anti-slip Pad Material** | TPE (Thermoplastic Elastomer) |
+| **Safety Switch** | Yes |
