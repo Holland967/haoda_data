@@ -1,0 +1,9 @@
+| Package Type | Value |
+| ------------ | ----- |
+| **Gift Box - Foam** | null |
+| **Gift Box - None Foam** | Paper Tray<br>702×142×403 (3 layers)<br>705×147×408 (5 layers) |
+| **Mail Box - Form** | null |
+| **Mail Box - Honeycomb** | 702×145×405 |
+| **Master Carton - Form** | 717×300×423 (2pcs/ctn) |
+| **Master Carton - None Form** | 717×300×423 (2pcs/ctn) |
+| **Container Load Quantity** | 20ft: 620pcs<br>40ft: 1280pcs<br>40HQ: 1500pcs |
