@@ -1,0 +1,9 @@
+| Package Type | Value |
+| ------------ | ----- |
+| **Gift Box - Foam** | null |
+| **Gift Box - None Foam** | 520×75×340 (HD8001)<br>337×85×525 (HD8001C) |
+| **Mail Box - Form** | 540×100×361 (HD8001)<br>null (HD8001C) |
+| **Mail Box - Honeycomb** | null |
+| **Master Carton - Form** | null |
+| **Master Carton - None Form** | 535×390×355 (HD8001, 5pcs/ctn)<br>545×345×357 (HD8001C, 4pcs/ctn) |
+| **Container Load Quantity** | 20ft: 1950pcs / 1620pcs<br>40ft: 3980pcs / 3320pcs<br>40HQ: 4700pcs / 3940pcs |

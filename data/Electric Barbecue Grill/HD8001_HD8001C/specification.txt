@@ -1,0 +1,27 @@
+| Product Specification | Value |
+| ----------------- | ---------------- |
+| **Rated Voltage** | 220V-240V / 120V |
+| **Rated Power** | 2000W / 1700W |
+| **Rated Frequency** | 50Hz-60Hz |
+| **Temperature Range** | 220℃-300℃ |
+| **Heating Speed** | 15 minutes |
+| **Adjustment Level** | 5 levels |
+| **Control** | Knob |
+| **Micro Switch** | Yes |
+| **Stand** | Yes (for HD8001C) |
+| **Product Size** | 515×340×95 |
+| **Housing Material** | SPCC |
+| **Grill Rack Material** | Iron |
+| **Heating Tube Material** | SUS304 Stainless Steel, 230V 2000W |
+| **Handle Material** | PP (Polypropylene) |
+| **Foot Material** | PA (Polyamide) |
+| **Control Box Material** | PA (Polyamide) |
+| **Indicator Light** | PC (Polycarbonate), Red |
+| **Knob Material** | ABS |
+| **Travel-control Micro-switch.** | 10A 250V |
+| **Thermostat** | KST820-1227B, 230V/2000W |
+| **Toggle Switch** | Yes |
+| **Storage Tray Material** | SUS410 Stainless Steel |
+| **Stand Material** | SPCC |
+| **Stand Foot Material** | Iron (for HD8001C) |
+| **Power Cord** | H05RN-F 250V/16A 3×0.75mm² |
