@@ -1,0 +1,20 @@
+| Product Specification | Value |
+| ----------------- | ---------------- |
+| **Rated Voltage** | 220V-240V / 120V |
+| **Rated Power** | 1800W+1000W / 1000W+700W |
+| **Rated Frequency** | 50Hz-60Hz |
+| **Temperature Range** | 0℃-600℃, average temperature of 400℃ |
+| **Heating Speed** | 15 minutes |
+| **Control** | Knob |
+| **Handle** | Yes |
+| **Product Size** | 635×296×68 |
+| **Surface Material** | Glass-Ceramic |
+| **Heating Plate** | Silica / Expanded Vermiculite<br>Iron-Chromium-Aluminum Wire |
+| **Frame Material** | SUS410 Stainless Steel |
+| **Bottom Material** | SPCC |
+| **Handle Material** | Silver Plastic / Aluminum Alloy |
+| **Indicator Light** | No |
+| **Knob Material** | pp (Polypropylene) / Aluminum Alloy |
+| **Timer** | No |
+| **Wiring Box Material** | pp (Polypropylene) |
+| **Power Cord Material** | 250V/13A H05RN-F 3×1.0mm² |
