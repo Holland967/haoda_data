@@ -1,0 +1,9 @@
+| Package Type | Value |
+| ------------ | ----- |
+| **Gift Box - Foam** | 490×100×285 |
+| **Gift Box - None Foam** | null |
+| **Mail Box - Form** | null |
+| **Mail Box - Honeycomb** | null |
+| **Master Carton - Form** | 515×505×300 (5pcs/ctn) |
+| **Master Carton - None Form** | null |
+| **Container Load Quantity** | 20ft: 1850pcs<br>40ft: 3750pcs<br>40HQ: 4390pcs |
