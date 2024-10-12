@@ -1,0 +1,19 @@
+| Product Specification | Value |
+| ----------------- | ---------------- |
+| **Rated Voltage** | 220V-240V / 120V |
+| **Rated Power** | 400W max / 300W |
+| **Rated Frequency** | 50Hz-60Hz |
+| **Capacity** | 1.8L |
+| **Blade** | 4-blade |
+| **Bowl Material** | Glass / Stainless Steel |
+| **Control** | Press-to-use |
+| **Product Size** | 218×178×256 |
+| **Button Material** | ABS |
+| **Top Cover Material** | ABS |
+| **Bowl Cover Material** | AS (Polystyrene) |
+| **Bowl Material** | High borosilicate glass |
+| **Blade Shaft Material** | POM (polyformaldehyde) |
+| **Blade Material** | Stainless Steel (1mm) |
+| **Glass Bowl Shaft Connector** | Stainless Steel |
+| **Anti-slip Pad Material** | TPE (Thermoplastic Elastomer) |
+| **Safety Switch** | Yes |
