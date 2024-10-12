@@ -1,0 +1,19 @@
+| Product Specification | Value |
+| ----------------- | ---------------- |
+| **Rated Voltage** | 220V-240V / 120V |
+| **Rated Power** | 1500W / 1000W |
+| **Rated Frequency** | 50Hz-60Hz |
+| **Temperature Range** | 400℃-500℃ |
+| **Tube or Plate Heating Speed** | 3-6 minutes |
+| **1.5 L Water Heating Speed** | 15 minutes |
+| **Control** | Knob |
+| **Handle** | Plastic Handle for option |
+| **Product Size** | 247×230×80 (HD1012B)<br>248×257×75 (HD1012BN) |
+| **Heating Plate Material** | Iron (HD1012B)<br>Aluminum (HD1012BN) |
+| **Heating Tube Material** | Copper-plated Iron Tube |
+| **Surface Material** | SPCC (Steel Plate Cold Commercial) |
+| **Bottom Material** | SPCC (Steel Plate Cold Commercial) |
+| **Grill Ring Material** | SUS202 Stainless Steel |
+| **Indicator Light** | PC (Polycarbonate), Red |
+| **Knob Material** | PA (Polyamide) |
+| **Power Cord** | H05RN-F 2*18AWG 3*0.75mm² |
